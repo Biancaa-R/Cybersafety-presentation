@@ -13,3 +13,6 @@ https://docs.google.com/presentation/d/14nbSrLtOtlltjg_sZvEf-DsmGQM1CmZb/edit?us
 
 small portions of the videos have been uploaded , the whole videos will be available in the link, they are not uploaded as such due to their large size.
 Hope you find it informative
+
+Quick links:
+1. https://www.itgovernance.co.uk/what-is-cybersecurity
